@@ -2,6 +2,10 @@
 
 ## [Daniel Goleman](./Daniel%20Goleman/)
 
+### [English version](./Daniel%20Goleman/English/)
+
+* [_Emotional Intelligence_](./Daniel%20Goleman/English/Daniel_goleman_emotional_intelligence.pdf)
+
 ### [Chinese version](./Daniel%20Goleman/Chinese/)
 
 * EPUB
